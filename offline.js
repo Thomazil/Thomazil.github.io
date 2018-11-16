@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1542039287,
+	"version": 1542386035,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,6 +27,8 @@
 		"images/tiledbackground.png",
 		"images/tiledbackground2.png",
 		"images/tiledbackground3.png",
+		"images/tiledbackground4.png",
+		"images/tiledbackground5.png",
 		"media/266430__xtrgamr__rock-band-the-game-controller-not-an-actual-drumset-foot-pedal.ogg",
 		"media/riders on the storm2.ogg",
 		"media/241337__seidhepriest__guitar-string-slide-noise.ogg",
